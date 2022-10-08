@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "paints",
+        "price": 100.0,
+        "creation_date": "2022-10-08 18:36:51.674564",
+        "date_of_update": "2022-10-08 18:36:51.674656",
+        "description": "made in KG",
+        "status": "in_stock"
+    },
+    {
+        "id": 2,
+        "name": "notebook",
+        "price": 150.0,
+        "creation_date": "2022-10-08 18:43:25.529596",
+        "date_of_update": "2022-10-08 18:44:23.035918",
+        "description": "made in India",
+        "status": "sold"
+    }
+]
